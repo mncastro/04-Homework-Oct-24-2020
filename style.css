@@ -1,0 +1,21 @@
+
+.h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: rebeccapurple;
+}
+
+#counter {
+    margin-top: 45px;
+
+}
+
+.btn {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.question {
+    font-size: 50px;
+    font-weight: bolder;
+}
